@@ -1,0 +1,42 @@
+# Python bytecode & cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# Config files containing active keys & personal profiles
+config/user_profile.json
+config/search_parameters.json
+config/apify_config.json
+config/gdrive_config.json
+config/credentials.json
+config/token.json
+# Generic ignore for any new config JSON files
+config/*.json
+
+# Master candidate resume & private list files
+master_data/resume_master.md
+master_data/company_blocklist.txt
+master_data/preferred_companies.txt
+
+# Scraped job database
+scraped_data/
+
+# Generated output deliverables
+output/
+
+# Telemetry logs
+logs/
+*.log
+
+# Sheets sync state & local mock backups
+gdrive_sync/sync_manifest.json
+gdrive_sync/mock_sheet.csv
+
+# Environment variables
+.env

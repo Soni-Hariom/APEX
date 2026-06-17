@@ -1,0 +1,79 @@
+{
+  "machine_learning": [
+    "ml",
+    "machine learning",
+    "statistical learning",
+    "predictive modeling"
+  ],
+  "deep_learning": [
+    "dl",
+    "deep learning",
+    "neural networks",
+    "convolutional neural networks",
+    "cnn",
+    "recurrent neural networks",
+    "rnn"
+  ],
+  "natural_language_processing": [
+    "nlp",
+    "natural language processing",
+    "text mining",
+    "transformers",
+    "bert",
+    "gpt",
+    "llm",
+    "large language models"
+  ],
+  "computer_vision": [
+    "cv",
+    "computer vision",
+    "image processing",
+    "object detection"
+  ],
+  "python": [
+    "python",
+    "py"
+  ],
+  "pytorch": [
+    "pytorch",
+    "torch"
+  ],
+  "tensorflow": [
+    "tensorflow",
+    "tf"
+  ],
+  "scikit_learn": [
+    "scikit-learn",
+    "sklearn"
+  ],
+  "sql": [
+    "sql",
+    "mysql",
+    "postgresql",
+    "sqlite"
+  ],
+  "docker": [
+    "docker",
+    "containerization"
+  ],
+  "kubernetes": [
+    "kubernetes",
+    "k8s"
+  ],
+  "fastapi": [
+    "fastapi",
+    "fast-api"
+  ],
+  "git": [
+    "git",
+    "github",
+    "gitlab"
+  ],
+  "aws": [
+    "aws",
+    "amazon web services",
+    "sagemaker",
+    "s3",
+    "ec2"
+  ]
+}
