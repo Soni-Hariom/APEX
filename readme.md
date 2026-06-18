@@ -46,18 +46,18 @@ APEX/
 ## 2. Key Components & Config Files
 
 * **Candidate Settings:**
-  * [config/user_profile.json](file:///d:/Hariom/My Projects/APEX/config/user_profile.json): Holds core professional profiles, target salary, and cities.
-  * [config/search_parameters.json](file:///d:/Hariom/My Projects/APEX/config/search_parameters.json): Scraper search terms, location, and work modes.
-  * [config/scoring_weights.json](file:///d:/Hariom/My Projects/APEX/config/scoring_weights.json): Defines mathematical weights for semantic alignment scoring. Must sum to exactly 1.00.
+  * [config/user_profile.json](APEX/config/user_profile.json): Holds core professional profiles, target salary, and cities.
+  * [config/search_parameters.json](APEX/config/search_parameters.json): Scraper search terms, location, and work modes.
+  * [config/scoring_weights.json](APEX/config/scoring_weights.json): Defines mathematical weights for semantic alignment scoring. Must sum to exactly 1.00.
 * **Integrations:**
-  * [config/apify_config.json](file:///d:/Hariom/My Projects/APEX/config/apify_config.json): Mapping of platform scrapers and API tokens.
-  * [config/gdrive_config.json](file:///d:/Hariom/My Projects/APEX/config/gdrive_config.json): Google Sheet and Drive IDs, OAuth config scopes.
+  * [config/apify_config.json](APEX/config/apify_config.json): Mapping of platform scrapers and API tokens.
+  * [config/gdrive_config.json](APEX/config/gdrive_config.json): Google Sheet and Drive IDs, OAuth config scopes.
 * **Sources of Truth:**
-  * [master_data/resume_master.md](file:///d:/Hariom/My Projects/APEX/master_data/resume_master.md): Read-only canonical Markdown resume.
-  * [master_data/skills_taxonomy.json](file:///d:/Hariom/My Projects/APEX/master_data/skills_taxonomy.json): Synonyms mapping list.
+  * [master_data/resume_master.md](APEX/master_data/resume_master.md): Read-only canonical Markdown resume.
+  * [master_data/skills_taxonomy.json](APEX/master_data/skills_taxonomy.json): Synonyms mapping list.
 * **Telemetry & Tracking:**
-  * [gdrive_sync/sync_manifest.json](file:///d:/Hariom/My Projects/APEX/gdrive_sync/sync_manifest.json): Prevent writing duplicated jobs back to Google Sheets.
-  * [logs/execution_trace.log](file:///d:/Hariom/My Projects/APEX/logs/execution_trace.log): Tracks step durations, success metrics, and process telemetry.
+  * [gdrive_sync/sync_manifest.json](APEX/gdrive_sync/sync_manifest.json): Prevent writing duplicated jobs back to Google Sheets.
+  * [logs/execution_trace.log](APEX/logs/execution_trace.log): Tracks step durations, success metrics, and process telemetry.
 
 ---
 
@@ -82,12 +82,12 @@ graph TD
 5. **Phase 4: WMDSS Scoring** — Computes match score and categorizes jobs into Tiers (1 to 5).
 6. **Phase 5: Output Synthesis** — Crafts custom resume guidelines, outreach emails, and competition signals.
 7. **Phase 6: Google Sheets Write** — Deduplicates via SHA256 URL hashes, appends new rows.
-8. **Phase 7: Daily Briefing** — Outputs a markdown dashboard file in [output/daily_report/](file:///d:/Hariom/My Projects/APEX/output/daily_report).
+8. **Phase 7: Daily Briefing** — Outputs a markdown dashboard file in [output/daily_report/](APEX/output/daily_report).
 9. **Phase 8: Execution Trace** — Emits execution trace, runtime analytics, and logs.
 
 ---
 
 ## 4. Documentation
 
-For setup instructions and runtime instructions, refer to the [user_manual.md](file:///d:/Hariom/My Projects/APEX/user_manual.md).
-For python dependencies, refer to the [requirements.txt](file:///d:/Hariom/My Projects/APEX/requirements.txt).
+For setup instructions and runtime instructions, refer to the [user_manual.md](APEX/user_manual.md).
+For python dependencies, refer to the [requirements.txt](APEX/requirements.txt).
