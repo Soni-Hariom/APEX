@@ -9,7 +9,7 @@ Welcome to the APEX (Autonomous Placement & Execution Agent) setup and operation
 Ensure you have Python 3.8 or higher installed on your machine.
 
 ### Step 1: Create a Python Virtual Environment
-Open your terminal (PowerShell or Git Bash on Windows) in the [APEX directory](file:///d:/Hariom/My Projects/APEX) and run:
+Open your terminal (PowerShell or Git Bash on Windows) in the [APEX directory](file:/APEX) and run:
 ```powershell
 # Create virtual environment
 python -m venv venv
@@ -45,7 +45,7 @@ APEX depends on two external tools: **Apify** (for job scraping) and **Google Dr
 4. Set up an OAuth Consent Screen (external, adding your own email as a test user).
 5. Navigate to **Credentials** -> **Create Credentials** -> **OAuth Client ID**. Select application type "Desktop App" and click Create.
 6. Download the credential JSON file and save it as `credentials.json` inside the [config/](config) folder:
-   - File path: `d:/Hariom/My Projects/APEX/config/credentials.json`
+   - File path: `d:APEX/config/credentials.json`
 7. Create a new Google Sheet in your Google Drive to track your applications:
    - Set up the headers for Tab 1: `DAILY_TRACKER` exactly as specified in the readme schema (Date, Job_ID, Match_Score, Tier, Role_Title, etc.).
    - Copy the Sheet ID from the URL: `https://docs.google.com/spreadsheets/d/[SPREADSHEET_ID_HERE]/edit`
