@@ -1,0 +1,140 @@
+[
+  {
+    "job_id": "7e23fb0db98f1d2900b6d9b4f0b46ff5d7f4bc4724b55c50b9e8b1365f118b73",
+    "title": "Senior Machine Learning Engineer",
+    "company": "Google",
+    "location": "Bengaluru, India",
+    "work_mode": "remote",
+    "salary_min": 3500000,
+    "salary_max": 5000000,
+    "salary_currency": "INR",
+    "date_posted": "2026-06-17T18:53:46.129847Z",
+    "apply_url": "https://careers.google.com/jobs/results/senior-ml-engineer-bangalore",
+    "sort_jd": "Google is seeking a Senior Machine Learning Engineer to join our core AI team. You will build and deploy deep learning models using PyTorch and TensorFlow in production. Requirements: 5+ years of experience with Python, PyTorch, Docker, and SQL.",
+    "extracted_skills": [
+      "aws",
+      "deep_learning",
+      "docker",
+      "fastapi",
+      "machine_learning",
+      "natural_language_processing",
+      "python",
+      "pytorch",
+      "sql",
+      "tensorflow"
+    ],
+    "must_have_skills": [
+      "docker",
+      "natural_language_processing",
+      "python",
+      "pytorch",
+      "sql"
+    ],
+    "nice_to_have_skills": [
+      "aws",
+      "fastapi"
+    ],
+    "source_platform": "linkedin",
+    "is_priority_company": true,
+    "blocklisted": false
+  },
+  {
+    "job_id": "e30428bbaf023ab0e489fe2728ae1deb21b7b7fa0574f763dcff872638671880",
+    "title": "AI Research Engineer",
+    "company": "AI Innovators Inc",
+    "location": "San Francisco, USA",
+    "work_mode": "remote",
+    "salary_min": 140000,
+    "salary_max": 175000,
+    "salary_currency": "USD",
+    "date_posted": "2026-06-17T18:53:46.129847Z",
+    "apply_url": "https://aiinnovators.com/jobs/ai-research-eng",
+    "sort_jd": "AI Innovators is a fast-growing SaaS startup building next-gen NLP systems. We are looking for an AI Research Engineer with experience in PyTorch, Python, Hugging Face, and Git. Responsibilities include scaling large language models (LLMs) and containerizing services using Docker.",
+    "extracted_skills": [
+      "docker",
+      "fastapi",
+      "git",
+      "kubernetes",
+      "natural_language_processing",
+      "python",
+      "pytorch"
+    ],
+    "must_have_skills": [
+      "docker",
+      "fastapi",
+      "git"
+    ],
+    "nice_to_have_skills": [
+      "kubernetes",
+      "natural_language_processing",
+      "python",
+      "pytorch"
+    ],
+    "source_platform": "wellfound",
+    "is_priority_company": false,
+    "blocklisted": false
+  },
+  {
+    "job_id": "3ce635f0dc8bade21c7630d7a96da7b2ad3e089d51b5dc722fab8e2f51fd5a86",
+    "title": "Frontend Developer (React)",
+    "company": "WebShop",
+    "location": "Bengaluru, India",
+    "work_mode": "hybrid",
+    "salary_min": 1500000,
+    "salary_max": 2000000,
+    "salary_currency": "INR",
+    "date_posted": "2026-06-17T18:53:46.129847Z",
+    "apply_url": "https://webshop.io/careers/frontend-react",
+    "sort_jd": "Join our team to build beautiful React applications. Must have 3+ years experience with JavaScript, HTML, CSS, and React. Familiarity with Python or FastAPI is a plus but not required.",
+    "extracted_skills": [
+      "fastapi",
+      "python"
+    ],
+    "must_have_skills": [
+      "fastapi",
+      "python"
+    ],
+    "nice_to_have_skills": [],
+    "source_platform": "indeed",
+    "is_priority_company": false,
+    "blocklisted": false
+  },
+  {
+    "job_id": "eae964fd55bc5dae104052914f4a746c63da7bf421bd491a0a3e04afad562e7d",
+    "title": "Machine Learning Engineer",
+    "company": "FinSolutions",
+    "location": "Bengaluru, India",
+    "work_mode": "remote",
+    "salary_min": 3000000,
+    "salary_max": 4000000,
+    "salary_currency": "INR",
+    "date_posted": "2026-06-17T18:53:46.129847Z",
+    "apply_url": "https://finsolutions.com/careers/ml-engineer-fintech",
+    "sort_jd": "FinSolutions is a leading Fintech product company. We seek an ML Engineer to build credit risk models. Requirements: 4+ years of experience with Python, PyTorch, Scikit-Learn, and SQL.",
+    "extracted_skills": [
+      "aws",
+      "docker",
+      "fastapi",
+      "kubernetes",
+      "machine_learning",
+      "python",
+      "pytorch",
+      "scikit_learn",
+      "sql"
+    ],
+    "must_have_skills": [
+      "aws",
+      "docker",
+      "fastapi",
+      "kubernetes",
+      "python",
+      "pytorch",
+      "scikit_learn",
+      "sql"
+    ],
+    "nice_to_have_skills": [],
+    "source_platform": "instahyre",
+    "is_priority_company": false,
+    "blocklisted": false
+  }
+]

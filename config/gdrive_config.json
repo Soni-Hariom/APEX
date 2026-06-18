@@ -1,0 +1,10 @@
+{
+  "spreadsheet_id": "YOUR_GOOGLE_SHEET_ID_HERE",
+  "folder_id": "YOUR_GOOGLE_DRIVE_FOLDER_ID_HERE",
+  "oauth_credentials_path": "config/credentials.json",
+  "oauth_token_path": "config/token.json",
+  "scopes": [
+    "https://www.googleapis.com/auth/spreadsheets",
+    "https://www.googleapis.com/auth/drive.file"
+  ]
+}

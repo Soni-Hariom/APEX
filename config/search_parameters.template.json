@@ -1,0 +1,16 @@
+{
+  "target_roles": [
+    "Machine Learning Engineer",
+    "Data Scientist"
+  ],
+  "locations": [
+    "India",
+    "United States"
+  ],
+  "work_modes": [
+    "remote",
+    "hybrid"
+  ],
+  "results_limit_per_vector": 50,
+  "date_posted_filter": "last24hours"
+}

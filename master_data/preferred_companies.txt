@@ -1,0 +1,8 @@
+Google
+OpenAI
+Anthropic
+DeepMind
+Microsoft
+Meta
+Stripe
+Scale AI

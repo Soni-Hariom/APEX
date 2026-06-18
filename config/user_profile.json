@@ -1,0 +1,43 @@
+{
+  "candidate_name": "Jane Doe",
+  "target_roles": [
+    "Machine Learning Engineer",
+    "Data Scientist",
+    "AI Research Engineer"
+  ],
+  "total_experience_yrs": 4.5,
+  "current_location": "Bengaluru, India",
+  "location_preference": "both",
+  "target_cities": [
+    "Bengaluru",
+    "Hyderabad",
+    "San Francisco",
+    "New York"
+  ],
+  "work_mode_preference": "remote",
+  "salary_min_inr": 2500000,
+  "salary_max_inr": 4500000,
+  "salary_min_usd": 120000,
+  "salary_max_usd": 180000,
+  "skills": [
+    "Python",
+    "PyTorch",
+    "TensorFlow",
+    "Scikit-Learn",
+    "SQL",
+    "Docker",
+    "Kubernetes",
+    "FastAPI",
+    "Git",
+    "AWS"
+  ],
+  "preferred_company_type": "startup",
+  "target_industries": [
+    "Fintech",
+    "HealthTech",
+    "SaaS"
+  ],
+  "notice_period_days": 30,
+  "profile_created_at": "2026-06-18T00:00:00Z",
+  "profile_updated_at": "2026-06-18T00:00:00Z"
+}

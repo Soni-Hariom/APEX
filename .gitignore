@@ -10,25 +10,25 @@ ENV/
 env/
 
 # Config files containing active keys & personal profiles
-config/user_profile.json
-config/search_parameters.json
-config/apify_config.json
-config/gdrive_config.json
-config/credentials.json
-config/token.json
+# config/user_profile.json
+# config/search_parameters.json
+# config/apify_config.json
+# config/gdrive_config.json
+# config/credentials.json
+# config/token.json
 # Generic ignore for any new config JSON files
-config/*.json
+# config/*.json
 
 # Master candidate resume & private list files
-master_data/resume_master.md
-master_data/company_blocklist.txt
-master_data/preferred_companies.txt
+# master_data/resume_master.md
+# master_data/company_blocklist.txt
+# master_data/preferred_companies.txt
 
 # Scraped job database
-scraped_data/
+# scraped_data/
 
 # Generated output deliverables
-output/
+# output/
 
 # Telemetry logs
 logs/

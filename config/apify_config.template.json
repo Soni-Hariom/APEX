@@ -1,0 +1,16 @@
+{
+  "apify_api_token": "YOUR_APIFY_API_TOKEN_HERE",
+  "actors": {
+    "linkedin_jobs": "apify/linkedin-jobs-scraper",
+    "naukri": "apify/naukri-scraper",
+    "indeed": "apify/indeed-scraper",
+    "glassdoor": "apify/glassdoor-jobs-scraper",
+    "wellfound": "apify/wellfound-scraper",
+    "instahyre": "apify/instahyre-scraper"
+  },
+  "rate_limits": {
+    "max_concurrent_runs": 2,
+    "delay_between_requests_ms": 1000
+  },
+  "run_timeout_seconds": 120
+}

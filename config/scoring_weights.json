@@ -1,0 +1,9 @@
+{
+  "skills_match": 0.35,
+  "role_title_alignment": 0.20,
+  "location_fit": 0.15,
+  "salary_overlap": 0.15,
+  "experience_fit": 0.10,
+  "company_type_pref": 0.05,
+  "weight_sum_validation": "MUST equal 1.00 — APEX validates on load"
+}

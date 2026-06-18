@@ -1,0 +1,33 @@
+{
+  "candidate_name": "YOUR_NAME",
+  "target_roles": [
+    "Machine Learning Engineer",
+    "Data Scientist"
+  ],
+  "total_experience_yrs": 5.0,
+  "current_location": "Bengaluru, India",
+  "location_preference": "both",
+  "target_cities": [
+    "Bengaluru",
+    "San Francisco"
+  ],
+  "work_mode_preference": "remote",
+  "salary_min_inr": 2500000,
+  "salary_max_inr": 4500000,
+  "salary_min_usd": 120000,
+  "salary_max_usd": 180000,
+  "skills": [
+    "Python",
+    "PyTorch",
+    "SQL",
+    "Docker"
+  ],
+  "preferred_company_type": "startup",
+  "target_industries": [
+    "Fintech",
+    "SaaS"
+  ],
+  "notice_period_days": 30,
+  "profile_created_at": "YYYY-MM-DDTHH:MM:SSZ",
+  "profile_updated_at": "YYYY-MM-DDTHH:MM:SSZ"
+}
