@@ -9,6 +9,9 @@ venv/
 ENV/
 env/
 
+#agent rules
+.agent/rules/research-agent-rule.md
+
 # Config files containing active keys & personal profiles
 # config/user_profile.json
 # config/search_parameters.json
